@@ -4,9 +4,9 @@ Welcome to my GitHub! Here you'll find my Power BI projects, certifications, and
 
 ## About Me
 
-I'm an aspiring Data Analyst with a strong interest in turning data into meaningful business insights through interactive dashboards and visualizations.
+I'm an aspiring Data Analyst with a strong interest in transforming data into meaningful business insights through interactive dashboards and visualizations.
 
-I'm currently building my data analytics portfolio through hands-on Power BI projects while strengthening my skills in SQL, data analysis and business intelligence.
+I'm currently building my data analytics portfolio through hands-on Power BI projects while strengthening my skills in SQL, Python, data analysis and business intelligence.
 
 
 ## 🛠️ Skills
@@ -26,28 +26,28 @@ I'm currently building my data analytics portfolio through hands-on Power BI pro
 ### 🌍 AI Workforce Intelligence Dashboard
 Interactive Power BI dashboard developed for the July 2026 DataDNA Challenge, analyzing global AI adoption, workforce transformation, automation risk, and reskilling trends.
 
-🔗 [AI Workforce Intelligence Repository](https://github.com/Aaditiiiii/AI-Workforce-Intelligence-Dashboard)
+🔗 Repository: [AI Workforce Intelligence](https://github.com/Aaditiiiii/AI-Workforce-Intelligence-Dashboard)
 
 
 ### 🚴 AdventureWorks Sales Dashboard
 Interactive Power BI dashboard providing insights into sales performance, customers, products, and regional sales trends.
 
-🔗 [AdventureWorks Sales Repository](https://github.com/Aaditiiiii/AdventureWorks-Sales-Performance-Dashboard)
+🔗 Repository: [AdventureWorks Sales](https://github.com/Aaditiiiii/AdventureWorks-Sales-Performance-Dashboard)
 
 
 ### 🏦 Bank Churn Analysis Dashboard
 Interactive Power BI dashboard analyzing customer churn, customer behavior, financial metrics, and retention insights.
 
-🔗 [Bank Churn Analysis Repository](https://github.com/Aaditiiiii/Bank-Customer-Churn-Performance-Analysis)
+🔗 Repository: [Bank Churn Analysis](https://github.com/Aaditiiiii/Bank-Customer-Churn-Performance-Analysis)
 
 
 ### 🛒 Maven Market Sales Dashboard
 Interactive Power BI dashboard analyzing revenue, profit, transactions, returns, and product performance.
 
-🔗 [Maven Market Sales Repository](https://github.com/Aaditiiiii/MavenMarket-Sales-Performance-Dashboard)
+🔗 Repository: [Maven Market Sales](https://github.com/Aaditiiiii/MavenMarket-Sales-Performance-Dashboard)
 
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
 - 📄 [Simplilearn SkillUp — Power BI for Beginners](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/PowerBI-Simplilearn.pdf)
 - 📄 [Udemy — Microsoft Power BI Desktop for Business Intelligence](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/Microsoft-PowerBI-Udemy.pdf)
@@ -60,7 +60,11 @@ Interactive Power BI dashboard analyzing revenue, profit, transactions, returns,
 - SQL for Data Analytics
 - Python for Data Analysis
 - Advanced DAX & Power BI Best Practices
-- Preparing for Microsoft PL-300 Certification
+- Preparing for PL-300: Microsoft Power BI Data Analyst Certification
+
+## 💼 Open to Opportunities
+
+I'm actively seeking Data Analyst or Power BI Developer opportunities where I can apply my analytical and visualization skills while continuing to learn and grow.
 
 
 ## 🤝 Connect with Me
