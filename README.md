@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there, I'm Aditi Gupta 👋
 
-<!--
-**Aaditiiiii/Aaditiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with a strong interest in turning data into meaningful business insights through interactive dashboards and visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my data analytics portfolio through hands-on Power BI projects while continuously improving my skills in data analysis and business intelligence.
+
+---
+
+## 🛠️ Skills
+
+- 📊 Power BI
+- 📈 DAX
+- 🔄 Power Query
+- 🗂️ Data Modeling
+- 📉 Data Visualization
+- 📋 Microsoft Excel
+- 🛢️ SQL *(Currently Learning)*
+- 🐍 Python *(Currently Learning)*
+
+---
+
+## 📂 Featured Projects
+
+### 🌍 AI Workforce Intelligence Dashboard
+Interactive Power BI dashboard developed for the July 2026 DataDNA Challenge, analyzing global AI adoption, workforce transformation, automation risk, and reskilling trends.
+
+🔗 [AI Workforce Intelligence Repository](https://github.com/Aaditiiiii/AI-Workforce-Intelligence-Dashboard)
+
+---
+
+### 🚴 AdventureWorks Sales Dashboard
+Interactive Power BI dashboard providing insights into sales performance, customers, products, and regional sales trends.
+
+🔗 [AdventureWorks Sales Repository](https://github.com/Aaditiiiii/AdventureWorks-Sales-Performance-Dashboard)
+
+---
+
+### 🏦 Bank Churn Analysis Dashboard
+Interactive Power BI dashboard analyzing customer churn, customer behavior, financial metrics, and retention insights.
+
+🔗 [Bank Churn Analysis Repository](https://github.com/Aaditiiiii/Bank-Customer-Churn-Performance-Analysis)
+
+---
+
+### 🛒 Maven Market Sales Dashboard
+Interactive Power BI dashboard analyzing revenue, profit, transactions, returns, and product performance.
+
+🔗 [Maven Market Sales Repository](https://github.com/Aaditiiiii/MavenMarket-Sales-Performance-Dashboard)
+
+---
+
+## 📜 Certifications
+
+- 📄 [Simplilearn SkillUp — Power BI for Beginners](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/PowerBI-Simplilearn.pdf)
+- 📄 [Udemy — Microsoft Power BI Desktop for Business Intelligence](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/Microsoft-PowerBI-Udemy.pdf)
+- 📄 [OnyxData DataDNA Challenge — July 2026 Participation Certificate](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/DatasetDNA-Challenge-July2026.pdf)
+- 🏅 [LeetCode — Top SQL 50 Badge](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/LeetCode-TopSQL50-badge.pdf)
+
+---
+
+## 🌱 Currently Learning
+
+- SQL for Data Analytics
+- Python for Data Analysis
+- Advanced DAX & Power BI Best Practices
+- Preparing for Microsoft PL-300 Certification
+
+---
+
+## 🤝 Connect with Me
+
+💼 LinkedIn: [Aditi Gupta](https://www.linkedin.com/in/aditi-gupta-426a92424/)
+
+📧 Email: [aditikvgm09@gmail.com](mailto:aditikvgm09@gmail.com)
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
