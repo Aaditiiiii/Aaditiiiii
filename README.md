@@ -20,7 +20,6 @@ I'm currently building my data analytics portfolio through hands-on Power BI pro
 - 🛢️ SQL *(Currently Learning)*
 - 🐍 Python *(Currently Learning)*
 
----
 
 ## 📂 Featured Projects
 
@@ -29,28 +28,24 @@ Interactive Power BI dashboard developed for the July 2026 DataDNA Challenge, an
 
 🔗 [AI Workforce Intelligence Repository](https://github.com/Aaditiiiii/AI-Workforce-Intelligence-Dashboard)
 
----
 
 ### 🚴 AdventureWorks Sales Dashboard
 Interactive Power BI dashboard providing insights into sales performance, customers, products, and regional sales trends.
 
 🔗 [AdventureWorks Sales Repository](https://github.com/Aaditiiiii/AdventureWorks-Sales-Performance-Dashboard)
 
----
 
 ### 🏦 Bank Churn Analysis Dashboard
 Interactive Power BI dashboard analyzing customer churn, customer behavior, financial metrics, and retention insights.
 
 🔗 [Bank Churn Analysis Repository](https://github.com/Aaditiiiii/Bank-Customer-Churn-Performance-Analysis)
 
----
 
 ### 🛒 Maven Market Sales Dashboard
 Interactive Power BI dashboard analyzing revenue, profit, transactions, returns, and product performance.
 
 🔗 [Maven Market Sales Repository](https://github.com/Aaditiiiii/MavenMarket-Sales-Performance-Dashboard)
 
----
 
 ## 📜 Certifications
 
@@ -59,7 +54,6 @@ Interactive Power BI dashboard analyzing revenue, profit, transactions, returns,
 - 📄 [OnyxData DataDNA Challenge — July 2026 Participation Certificate](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/DatasetDNA-Challenge-July2026.pdf)
 - 🏅 [LeetCode — Top SQL 50 Badge](https://github.com/Aaditiiiii/Professional-Certifications/blob/main/LeetCode-TopSQL50-badge.pdf)
 
----
 
 ## 🌱 Currently Learning
 
@@ -68,7 +62,6 @@ Interactive Power BI dashboard analyzing revenue, profit, transactions, returns,
 - Advanced DAX & Power BI Best Practices
 - Preparing for Microsoft PL-300 Certification
 
----
 
 ## 🤝 Connect with Me
 
@@ -76,6 +69,5 @@ Interactive Power BI dashboard analyzing revenue, profit, transactions, returns,
 
 📧 Email: [aditikvgm09@gmail.com](mailto:aditikvgm09@gmail.com)
 
----
 
 ⭐ Thank you for visiting my profile! Feel free to explore my projects and connect with me.
