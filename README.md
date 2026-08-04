@@ -1,12 +1,13 @@
 # Hi there, I'm Aditi Gupta 👋
 
+Welcome to my GitHub! Here you'll find my Power BI projects, certifications, and my journey toward becoming a Data Analyst.
+
 ## About Me
 
 I'm an aspiring Data Analyst with a strong interest in turning data into meaningful business insights through interactive dashboards and visualizations.
 
-I'm currently building my data analytics portfolio through hands-on Power BI projects while continuously improving my skills in data analysis and business intelligence.
+I'm currently building my data analytics portfolio through hands-on Power BI projects while strengthening my skills in SQL, data analysis and business intelligence.
 
----
 
 ## 🛠️ Skills
 
